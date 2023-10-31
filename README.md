@@ -20,3 +20,4 @@ No more advise. Just fork and do it, you can try a new combination of reagent.
 
 # 友情链接
 https://github.com/lydlid/estrogel-diy-guide-zh_CN
+https://groups.io/g/MTFHRT/wiki/30843
