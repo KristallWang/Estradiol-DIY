@@ -21,7 +21,5 @@ No more advise. Just fork and do it, you can try a new combination of reagent.
 ## Earliest version but not recommended.
 ![](./IMG_1584.jpeg) ![](IMG_2216.jpeg) ![](./IMG_3497.jpeg) ![](./IMG_3604.jpeg) ![](./IMG_3629.jpeg)
 # 友情链接
-https://github.com/lydlid/estrogel-diy-guide-zh_CN
-
-
-https://groups.io/g/MTFHRT/wiki/30843
+https://github.com/lydlid/estrogel-diy-guide-zh_CN  
+https://groups.io/g/MTFHRT/wiki/30843  
