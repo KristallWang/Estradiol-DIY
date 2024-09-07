@@ -10,6 +10,7 @@ No more advise. Just fork and do it, you can try a new combination of reagent.
 [CN107362131A 雌二醇凝胶.pdf](./CN107362131A.pdf) 2017  
 [CN110876713A.pdf](./CN110876713A.pdf) 2019 健民药业 凝胶  
 [CN113384520A.pdf](./CN113384520A.pdf) 2021 凝胶   
+[CN101627979B.pdf](./CN101627979B.pdf) 2009 亚太药业 贴片  
 [FR2518879A1 雌二醇凝胶.pdf](./FR2518879A1.pdf)  
 [US10080760凝胶.pdf](./US10080760.pdf)  
 [US20040110732A1 欧洲&法国原版凝胶.pdf](./US20040110732A1.pdf)  
@@ -20,7 +21,5 @@ No more advise. Just fork and do it, you can try a new combination of reagent.
 ## Earliest version but not recommended.
 ![](./IMG_1584.jpeg) ![](IMG_2216.jpeg) ![](./IMG_3497.jpeg) ![](./IMG_3604.jpeg) ![](./IMG_3629.jpeg)
 # 友情链接
-https://github.com/lydlid/estrogel-diy-guide-zh_CN
-
-
-https://groups.io/g/MTFHRT/wiki/30843
+https://github.com/lydlid/estrogel-diy-guide-zh_CN  
+https://groups.io/g/MTFHRT/wiki/30843  
